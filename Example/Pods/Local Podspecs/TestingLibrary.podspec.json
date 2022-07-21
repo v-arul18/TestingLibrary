@@ -1,0 +1,22 @@
+{
+  "name": "TestingLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of TestingLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vara.arul@onymos.com/TestingLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vara.arul@onymos.com": "varaarul@umich.edu"
+  },
+  "source": {
+    "git": "https://github.com/vara.arul@onymos.com/TestingLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestingLibrary/Classes/**/*"
+}
